@@ -1,0 +1,49 @@
+
+======================================================================
+AI-ASSISTED SALES INSIGHTS REPORT
+======================================================================
+Generated: 2026-10-04 22:41:38
+Dataset: SuperStore Orders (51,290 records)
+Analysis Period: 2011-01-01 to 2014-12-31
+======================================================================
+
+KEY INSIGHTS:
+----------------------------------------------------------------------
+
+1. 📊 Overall Performance
+   $12,642,905 revenue, $1,469,035 profit (11.6% margin) across 25,035 orders
+
+2. 🏆 Category Performance
+   Technology leads with $663,779 profit; Furniture lowest at $286,782
+
+3. 🌍 Regional Performance
+   Central tops with $311,404 profit; Canada at $17,817
+
+4. 💰 Discount Impact
+   Order lines with ≥40% discount average -$76.07 profit vs $61.04 with no discount
+
+5. 📈 Year-over-Year Growth
+   26.3% growth from 2013 ($3,405,860) to 2014 ($4,300,041)
+
+6. 🎯 Top Products
+   Top 3: 'Apple Smart Phone, Full Size' ($86,936); 'Cisco Smart Phone, Full Size' ($76,441); 'Motorola Smart Phone, Full Size' ($73,159)
+
+7. 📅 Best Month
+   November 2014 with $555,312 sales
+
+======================================================================
+STRATEGIC RECOMMENDATIONS:
+----------------------------------------------------------------------
+
+1. Increase marketing spend on Technology category (highest profit contributor)
+
+2. Investigate Canada region performance—profit is 94% below Central
+
+3. Review discount strategy—high discounts (≥40%) significantly reduce profitability
+
+4. Create bundle promotions featuring top products: Apple Smart Phone, Full Size
+
+======================================================================
+Report generated automatically by AI-Assisted Analytics Workflow
+Next steps: Review recommendations with stakeholders, prioritize actions
+======================================================================
